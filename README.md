@@ -1,4 +1,4 @@
-### Hi there, I'm John! 
+### Hi there, I'm John! 👋🏻
 
 <!--
 **johnhamlin/johnhamlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
