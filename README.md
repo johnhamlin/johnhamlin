@@ -4,7 +4,7 @@ I'm John and I'm learning to code!
 
 Here's a look at my progress so far:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin&show_icons=true&theme=dark&bg_color=#0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **johnhamlin/johnhamlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
