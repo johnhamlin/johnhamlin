@@ -1,5 +1,10 @@
 ### Hi there, I'm John! 👋🏻
 
+I'm learning to code!
+
+Here's a look at my progress so far:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **johnhamlin/johnhamlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
