@@ -1,6 +1,8 @@
 ### Hi there! 👋🏻
 
-I'm John and I'm learning to code!
+I'm a storyteller turned software developer. I know enough JavaScript, React, Node and SQL to be dangerous, and I'm learning more every day.
+
+As a writer, I built a career translating complex topics into everyday language. In government communications, I loved finding ways to engage audiences with information that would improve their lives. As a newspaper reporter, I covered everything from the Ham & Yam Festival to Fortune 500 companies and future presidents.
 
 Here's a look at my progress so far:
 
