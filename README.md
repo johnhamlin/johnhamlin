@@ -4,7 +4,7 @@ I'm a storyteller turned software developer. I know enough JavaScript, React, No
 
 As a writer, I built a career translating complex topics into everyday language. In government communications, I loved finding ways to engage audiences with information that would improve their lives. As a newspaper reporter, I covered everything from the Ham & Yam Festival to Fortune 500 companies and future presidents.
 
-Here's a look at my progress so far:
+Here's a look at what I've been working on:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin&show_icons=true&theme=dark&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
