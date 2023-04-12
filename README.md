@@ -1,10 +1,12 @@
 ### Hi there! 👋🏻
 
-I'm a storyteller turned software developer. I know enough JavaScript, React, Node and SQL to be dangerous, and I'm learning more every day.
+I build full stack apps. Currently, my favorite tools for the job are TypeScript, React, Next.js and Node, because they strike the right balance between development speed and scalability. Right now I'm working on xkite at the OS Labs tech accelerator, where we're building tools to make life easier for developers using Apache Kafka.
 
-As a writer, I built a career translating complex topics into everyday language. In government communications, I loved finding ways to engage audiences with information that would improve their lives. As a newspaper reporter, I covered everything from the Ham & Yam Festival to Fortune 500 companies and future presidents.
+I enjoy writing documentation that distills complex topics into plain English. I've led cross-functional teams of engineers to craft customer-focused outreach and marketing campaigns. I honed my writing reporting for newspapers, where I covered everything from the local Ham & Yam Festival to global billion-dollar deals.
 
-Here's a look at what I've been working on:
+I’m a bar trivia champion, hot sauce connoisseur and kombucha home brewer. Not to toot my own horn, but I’ve been known to solve a Saturday NYT crossword and I can reverse-sear a ribeye to perfection.
+
+Here's a look at what all I've been working on:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin&show_icons=true&theme=dark&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
