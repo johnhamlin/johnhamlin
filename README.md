@@ -1,16 +1,25 @@
-### Hi there! 👋🏻
+# Hi! My name is John Hamlin! 👋🏻
+### I build _full-stack web apps_ in **TypeScript**, **React**, **Next.js** and **Node** and _cross-platform mobile apps_ in **React Native** and **Expo**.
 
-I build full stack apps. Currently, my favorite tools for the job are TypeScript, React, Next.js and Node, because they strike the right balance between development speed and scalability. Right now I'm working on xkite at the OS Labs tech accelerator, where we're building tools to make life easier for developers using Apache Kafka.
+I build tools that make people's lives easier, most recently at **xkite**, where we created an open-source toolkit for **Apache Kafka** devs. xkite lets you spin up containerized Kafka clusters in minutes, run custom tests, and export your setup for deployment.
 
-I enjoy writing documentation that distills complex topics into plain English. I've led cross-functional teams of engineers to craft customer-focused outreach and marketing campaigns. I honed my writing reporting for newspapers, where I covered everything from the local Ham & Yam Festival to global billion-dollar deals.
+As a former journalist, I enjoy **writing documentation** that distills **complex topics** into **plain English**. As a senior comms consultant at North Carolina's largest county, I led **cross-functional teams of engineers** to craft **customer-focused** outreach and marketing campaigns.
 
-I’m a bar trivia champion, hot sauce connoisseur and kombucha home brewer. Not to toot my own horn, but I’ve been known to solve a Saturday NYT crossword and I can reverse-sear a ribeye to perfection.
+When I’m not writing code, I’m a **bar trivia** champion, **hot sauce** masochist and **kombucha** home brewer. I'll talk your ear off about **reverse searing steaks**, the best way to make a **martini** (obviously gin, almost no vermouth) and the uselessness of the Oxford comma.
 
-Here's a look at what all I've been working on:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin&show_icons=true&theme=dark&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+## Here's a look at what all I've been working on:
+- 🪁 [xkite](https://github.com/oslabs-beta/xkite)
+  - Open source GUI for Apache Kafka prototyping, testing and deployment. Spins up containerized Kafka clusters, runs custom tests, and exports configs for deployment
+- 💼 [johnhaml.in](https://github.com/johnhamlin/johnhaml.in)
+  - Your classic, over-engineered personal portfolio site, built from scratch with my favorite tools and a few I wanted to try out.
+- 📼 [ScrewTapp](https://github.com/oslabs-beta/xkite)
+  - React Native App to Play DJ Screw Mixtapes on Archive.Org on iOS and Android
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhamlin&show_icons=true&theme=dark&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 **johnhamlin/johnhamlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
