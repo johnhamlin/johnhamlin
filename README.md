@@ -1,5 +1,4 @@
 # Hi! My name is John Hamlin! 👋🏻
-### I build _full-stack web apps_ in **TypeScript**, **React**, **Next.js** and **Node** and _cross-platform mobile apps_ in **React Native** and **Expo**.
 
 I build tools that make people's lives easier, most recently at **xkite**, where we created an open-source toolkit for **Apache Kafka** devs. xkite lets you spin up containerized Kafka clusters in minutes, run custom tests, and export your setup for deployment.
 
