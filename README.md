@@ -11,7 +11,7 @@ When I’m not writing code, I’m a **bar trivia** champion, **hot sauce** maso
   - Open source GUI for Apache Kafka prototyping, testing and deployment. Spins up containerized Kafka clusters, runs custom tests, and exports configs for deployment
 - 💼 [johnhaml.in](https://github.com/johnhamlin/johnhaml.in)
   - Your classic, over-engineered personal portfolio site, built from scratch with my favorite tools and a few I wanted to try out.
-- 📼 [ScrewTapp](https://github.com/oslabs-beta/xkite)
+- 📼 [ScrewTapp](https://github.com/johnhamlin/screwtapp)
   - React Native App to Play DJ Screw Mixtapes on Archive.Org on iOS and Android
 
 <!--
